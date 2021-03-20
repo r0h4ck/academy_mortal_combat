@@ -1,1 +1,8 @@
-# academy_mortal_combat
+#Mortal Kombat - учебный проект
+##Tracker Cracker
+###Технологии:
+- HTML
+- CSS
+- Normalize
+- FancyBox(Jquery)
+- JQuery
