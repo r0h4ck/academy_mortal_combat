@@ -4,5 +4,5 @@
 - HTML
 - CSS
 - Normalize
-- FancyBox(Jquery)
+- FancyBox(JQuery)
 - JQuery
